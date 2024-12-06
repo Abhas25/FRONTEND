@@ -1,5 +1,5 @@
 [build]
-  publish = "dist/crickfront"
+  publish = "dist/crickfront/browser"
   command = "ng build --prod"
 [[redirects]]
   from = "/*"
